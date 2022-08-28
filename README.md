@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   </a>
   <img src="https://komarev.com/ghpvc/?username=AtulKrishnan&style=flat-square&color=blue" alt=""/>
 </div>
-
 <!--
+<br>
 <div align = "center">
-  <img src="https://commons.wikimedia.org/wiki/File:Thats_all_folks.svg"/>
+  <img src="https://github.com/AtulKrishnan/AtulKrishnan/blob/main/Thats_all_folks.png" width="300" height="200"/>
 </div>
 -->
