@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/the_atul_krishnan/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AtulKrishnan&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=AtulKrishnan&style=flat-square&color=blue" height = "100" alt=""/>
 </div>
 <!--
 <br>
