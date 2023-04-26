@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulkrishnan25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKrishnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/atul-krishnan-6a027323a/">
