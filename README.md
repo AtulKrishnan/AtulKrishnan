@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtulKrishnan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/atul-krishnan-6a027323a/">
+  <a href="[https://www.linkedin.com/in/atul-krishnan-6a027323a/](https://www.linkedin.com/in/atulkrishnan25/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/the_atul_krishnan/">
